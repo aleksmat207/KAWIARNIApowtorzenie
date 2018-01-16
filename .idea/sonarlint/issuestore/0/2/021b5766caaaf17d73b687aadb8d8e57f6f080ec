@@ -1,0 +1,7 @@
+
+msquid:S00116"PRename this field "Price" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Ì¶²á8šÆş…,
+šsquid:S1319"yThe type of the "coffeArrayList" object should be an interface such as "List" rather than the implementation "ArrayList".(‰ßëÃıÿÿÿÿ8•üÔ…,
+^squid:UselessImportCheck"5Remove this unused import 'java.util.jar.Attributes'.(ŸÄéŸ8½üö…,
+wsquid:S00116"URename this field "WybierzBtn" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(§Ñ“úÿÿÿÿ8˜…›‰,
+3squid:S2176"Rename this class.(Â×Öúÿÿÿÿ8ŒéÅ…,
+lsquid:S00116"ORename this field "Name" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ô£É¸8šÆş…,

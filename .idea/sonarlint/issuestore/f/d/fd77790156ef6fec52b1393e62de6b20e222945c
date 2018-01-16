@@ -1,0 +1,7 @@
+
+[squid:UselessImportCheck"3Remove this unused import 'android.content.Intent'.(³ğ‹G8Ô†¸‡,
+hsquid:MaximumInheritanceDepth"<This class has 7 parents which is greater than 5 authorized.(ä¡‹ûÿÿÿÿ
+lsquid:CommentedOutCodeLine"<This block of commented-out lines of code should be removed.(éØ»Úûÿÿÿÿ8Êê‡,
+gsquid:CommentedOutCodeLine"<This block of commented-out lines of code should be removed.(çÇÙé8Êê‡,
+gsquid:CommentedOutCodeLine"<This block of commented-out lines of code should be removed.(ÈÕïÛ8¤Å€ˆ,
+lsquid:CommentedOutCodeLine"<This block of commented-out lines of code should be removed.(ıê™¢ıÿÿÿÿ8¤Å€ˆ,
